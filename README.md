@@ -1,4 +1,4 @@
-# 練習RWD
+# RWD練習
 
 使用 Flexbox 實作 RWD 網頁  
 
