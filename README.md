@@ -5,3 +5,7 @@
 ## Desktop
 
 <img src=/preview/desktop.png width=800 />
+
+## Phone
+
+<img src=/preview/phone.png width=300 />
